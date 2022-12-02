@@ -13,9 +13,8 @@
 <h3 align="left">Contact me on:</h3>
 <hr>
 <p align="left">
- <a href="https://linkedin.com/in/ankushnegi-001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankush Negi" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/ankush-negi001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankush Negi" height="40" width="40" /></a>
 </p>
-
 
 
 <h3 align="left">TooL BoX:</h3>
