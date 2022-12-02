@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Full Stack Web Development and Open Source collaboration.
 - 🌱 I’m currently learning react.js, mongodb, node.js :)
-- 📫 You can reach me by <a href="mailto:ankushnegi.ryuk21@gmail.com">click here</a>
+- 📫 You can reach me here **ankushnegi.ryuk21@gmail.com**
 
 
 <h3 align="left">Contact me on:</h3>
