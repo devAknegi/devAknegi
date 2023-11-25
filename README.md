@@ -1,31 +1,45 @@
-<p>
-  <img src="./Intro.gif" alt="Hi, I'm Ankush Negi 👋 ,I'm Web Developer 🚀 ">
-</p>
+<a name="readme-top"></a>
+
+<h3> 🖥<strong> About Me:</strong></h3>
 <hr>
-<h3 align="left">🖥<strong> About : </strong></h3>
-<h3> - 👋 Hi, I’m @Ankush-Negi-001 </h3>
 
-- 👀 I’m interested in Full Stack Web Development and Open Source collaboration.
-- 🌱 I’m currently learning react.js, mongodb, node.js :)
-- 📫 You can reach me here **ankushnegi.ryuk21@gmail.com**
+<h3> - 👋 Hi, I’m <strong>@Ankush_Negi</strong></h3>
+
+- 👀 I’m interested in Full Stack Web Development and Open Source Collaboration.
+- 🌱 Currently learning Next.js, Node.js, and TypeScript.
+- 📫 You can mail me on this [Link](ankushnegi42001@gmail.com).
 
 
-<h3 align="left">Contact me on:</h3>
+<h3>🌐👨🏻‍💻<strong> Tech Stack: </strong></h3>
 <hr>
-<p align="left">
- <a href="https://www.linkedin.com/in/ankush-negi001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankush Negi" height="40" width="40" /></a>
-</p>
+<br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;
+</div>
 
-
-<h3 align="left">TooL BoX:</h3>
+</br>
+<h3>📊 GitHub Stats:</h3>
 <hr>
-<p align="left">
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg#/media/File:HTML5_logo_and_wordmark.svg"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 " height="40" width="40"></a> <a href="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg#/media/File:CSS3_logo_and_wordmark.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width = "35" height= "40"></a>  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="45" height="35"></a> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+</br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devaknegi&theme=dark&count_private=true&bg_color=0d1116&title_color=ff6d91&text_color=a4aacb&icon_color=007ec6&layout=compact&card_width=450)
+
+![Ankush Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devAknegi&count_private=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devAknegi&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
-## 📊 &nbsp;Stats
-[![Ankush Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankush-negi-001&count_private=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)]
-<!-- 
-![Ankush Negi' Github Stats](https://github-readme-stats.vercel.app/api?username=ankush-negi-001&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6) -->
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankush-negi-001&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+<h3>Connect with Me on:&nbsp; 
+  <a href="https://www.linkedin.com/in/ankush-negi001" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankush Negi" height="25" width="25"" />
+  </a>
+</h3>
+</br>
